@@ -32,6 +32,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=codermrxme&theme=monokai&column=8&no-frame=true&no-bg=true">
   </a></p>
 
+  [![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)](https://github.com/codermrxme)
+
   ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming Languages
@@ -123,9 +125,6 @@
   </a>
 </p>
 
-
-
-[![](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)](https://github.com/codermrxme)
 
 ## 💼 Skills
 
